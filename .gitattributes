@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+/GitLFSDemo/GitLFSDemo/AWSDK.framework/AWSDK filter=lfs diff=lfs merge=lfs -text
+/GitLFSDemo/GitLFSDemo/AWSDK.framework/Versions/A/AWSDK filter=lfs diff=lfs merge=lfs -text
